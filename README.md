@@ -66,7 +66,7 @@
 
 5 дюймов (5dyuymov.ru) is a Russian supplier of pipeline fittings, pumps, and heating equipment for boiler plants and industrial production. The company offers a catalog of valves, pumps, and related accessories, providing specifications, pricing, and delivery across Russia. Customers can request detailed specifications via email or upload files, and the site includes business terms, shipping information, and contact details for sales support.
 
-**Areas:** Company · Pipeline · Valves · Pumps · Heating
+**Areas:** Company · Pipelines · Valves · Pumps · Heating
 
 ## 5 дюймов on APIs.io
 
@@ -80,7 +80,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [5Dyuymov Ru Domain Security](https://apis.io/security/5dyuymov-ru/5dyuymov-ru-domain-security/)
+- [5 дюймов Domain Security](https://apis.io/security/5dyuymov-ru/5dyuymov-ru-domain-security/)
 
 ## Where to find this API
 
@@ -95,18 +95,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 15.9** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 17.1** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 55.4 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 31.0 |
-| Access clarity | 21.1 |
+| Access clarity | 27.7 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 24.2** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -121,7 +121,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -131,8 +131,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/5dyuymov-ru/](https://apis.io/providers/5dyuymov-ru/).
 
